@@ -1,4 +1,4 @@
-ackage grupo; //
+package grupo; //
 
 import robocode.*;
 import robocode.util.Utils;
