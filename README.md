@@ -8,3 +8,11 @@ Integrantes:
 - Arthur Batista (Robô 2)
 - Jorge (Robô 2)
 - Helio Sena (Líder / integração)
+
+#Robocode robot team
+robocode.version=1.12.0
+team.author.name=Equipe Os Imprevisiveis
+team.webpage=https://github.com/Katechon-tech/bytalhao
+team.description=Bytalhao: time de dois tanques, apoio agressivo e sniper defensivo
+team.members=bytalhao.Tico,bytalhao.Teco*
+team.version=1.0
