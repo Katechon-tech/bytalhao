@@ -4,9 +4,9 @@ Time de dois robôs para a competição de Robocode, feito em Java para a discip
 Equipe: Bytalhão
 Integrantes:
 - Eduardo Oliveira  (Robô 1)
-- Gabriel (Robô 1)
+- Gabriel evangelista (Robô 1)
 - Arthur Batista (Robô 2)
-- Jorge (Robô 2)
+- Jorge henrique (Robô 2)
 - Helio Sena (Líder / integração)
 
 #Robocode robot team
